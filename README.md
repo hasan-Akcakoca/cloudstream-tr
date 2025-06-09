@@ -1,4 +1,4 @@
-# 📺 cs-Kekik
+# 📺 cloudstream-tr
 
 Arşive alınmış projenin canlıya çekilmiş hali
 
